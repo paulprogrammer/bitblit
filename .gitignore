@@ -4,6 +4,7 @@ bitblit*
 CMakeCache.txt
 CMakeFiles
 cmake_install.cmake
+cmake-build-*
 
 # Prerequisites
 *.d
